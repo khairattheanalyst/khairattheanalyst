@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/ff79e141-c04b-45d4-84e9-1c4459d28b11)
+![LinkedIn Banner](https://github.com/user-attachments/assets/1e146d85-fe1d-4c1c-8580-d58595243537)
 
 👋🏽 𝐇𝐢, 𝐈’𝐦 𝐊𝐡𝐚𝐢𝐫𝐚𝐭 𝐎𝐥𝐚𝐥𝐞𝐲𝐞 — a Data Analyst, Analytics Technical Writer, and aspiring Data Engineer who is passionate about using data to tell stories and drive impact.
 
