@@ -1,38 +1,55 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/1e146d85-fe1d-4c1c-8580-d58595243537)
+# 👋🏽 Hi, I’m Khairat Olaleye  
 
-👋🏽 𝐇𝐢, 𝐈’𝐦 𝐊𝐡𝐚𝐢𝐫𝐚𝐭 𝐎𝐥𝐚𝐥𝐞𝐲𝐞 — a Data Analyst, Analytics Technical Writer, and aspiring Data Engineer who is passionate about using data to tell stories and drive impact.
+### Data Analyst | Analytics Technical Writer | Aspiring Data Engineer  
 
+I’m passionate about using **data to tell meaningful stories and drive real-world impact**.  
+With a strong foundation in statistics and hands-on experience in analytics, I enjoy transforming raw data into insights that power smarter decisions.  
 
-𝐇𝐞𝐫𝐞’𝐬 𝐰𝐡𝐚𝐭 𝐈 𝐝𝐨 𝐚𝐧𝐝 𝐰𝐡𝐞𝐫𝐞 𝐈 𝐚𝐝𝐝 𝐯𝐚𝐥𝐮𝐞:
+---
 
+## What I Do  
 
-📊 Analyze and interpret complex datasets using SQL, Power BI, Tableau, and Excel, uncovering insights that support growth and retention.
+**Data Analysis & Insights**  
+- Analyze and interpret complex datasets using **SQL, Power BI, Tableau, and Excel**.  
+- Uncover insights that support **growth, retention, and business strategy**.  
 
+**Data Visualization & Reporting**  
+- Build **interactive dashboards and visual reports** for data-driven decision-making.  
 
-⚡ Build interactive dashboards and visual reports that make decision-making faster and smarter for businesses.
+**Data Cleaning & Transformation**  
+- Skilled in cleaning, transforming, and validating data for **accuracy and reliability**.  
 
+**Collaboration & Communication**  
+- Work effectively across teams and communicate analytical findings in **clear, actionable ways**.  
 
-🔍 Skilled in data cleaning, transformation, and statistical analysis, ensuring accuracy and reliability in every project.
+**Analytics Technical Writing**  
+- Simplify complex data concepts for beginners and peers through **educational content and storytelling**.  
 
+---
 
-🫱🏽‍🫲🏽 Collaborate effectively across teams and communicate insights in a clear, business-focused way.
+## A Little About Me  
 
+**Recent graduate** 🎓 in Statistics from the **University of Lagos**, with internship experience in **data analytics and business intelligence**.  
+**Open to entry-level data roles and internships** where I can grow, contribute, and make an impact.  
+**Short-term goal:** publish my first beginner-friendly data resource and grow as a **thought leader in the data space**.  
 
-📝 Share my journey as an Analytics Technical Writer, simplifying data concepts for beginners and peers.
+---
 
+## Tech & Tools  
 
-𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:
+| **Category** | **Tools & Technologies** |
+|:--|:--|
+| **Programming** | Python *(pandas, numpy, matplotlib, scikit-learn)* |
+| **Database** | BigQuery, SQL, PostgreSQL |
+| **Visualization** | Power BI, Excel, Tableau |
+| **Version Control** | Git & GitHub |
+| **Other Interests** | Data Engineering, Artificial Intelligence, Writing |
 
+---
 
-🎓 Recent graduate in Statistics (University of Lagos) with hands-on internship experience in analytics and BI.
+## Currently Exploring  
+- Data Engineering fundamentals (ETL, pipelines, and cloud data systems).  
+- Writing beginner-friendly tutorials on **SQL and data storytelling**.  
 
-
-💼 Currently open to entry-level data roles and internships where I can grow, contribute, and make an impact.
-
-
-✨ Short-term goal: publish my first beginner-friendly data resource, also on my journey to becoming a thought leader in the data space.
-
-Thank you :⁠-⁠) 
-
-
-
+---
