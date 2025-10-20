@@ -40,7 +40,7 @@ With a strong foundation in statistics and hands-on experience in analytics, I e
 
 | **Category** | **Tools & Technologies** |
 |:--|:--|
-| **Programming** | Python *(pandas, numpy, matplotlib, scikit-learn)* |
+| **Programming** | Python *(pandas, numpy, matplotlib)* |
 | **Database** | BigQuery, SQL, PostgreSQL |
 | **Visualization** | Power BI, Excel, Tableau |
 | **Version Control** | Git & GitHub |
